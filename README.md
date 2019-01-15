@@ -1,4 +1,4 @@
-> 课程的安排介绍
+> demo介绍
 
 项目结构的创建-脚手架快速搭建生成
 npx create-react-app my-order
