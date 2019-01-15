@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
 import OrderItem from '../OrderItem/index'
-import { comment } from 'postcss-selector-parser';
-
-
 
 class OrderList extends Component {
 
